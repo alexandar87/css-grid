@@ -1,3 +1,7 @@
-# Getting Started With Gulp
+# Getting Started With Starter Pack
 
-Gulp example app for the tutorial
+Run `npm install`
+
+Run `gulp`
+
+Website will load into **http://localhost:8080/** with live reload
